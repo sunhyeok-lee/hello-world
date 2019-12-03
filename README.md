@@ -10,11 +10,11 @@
   - 2nd bullet
   * 2nd star
   
-`
+```
 - bullet
 - bullet
 * star bullet
   - 2nd bullet
   * 2nd star
-`
+```
 
